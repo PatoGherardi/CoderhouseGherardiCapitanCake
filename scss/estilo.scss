@@ -1,0 +1,43 @@
+@import "bucle";
+@import "variables";
+@import "tipografias";
+@import "estructuras";
+@import "colors";
+@import "transform";
+
+html {
+
+        margin-top: 10px;
+        
+}
+
+.btnTrans {
+
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        position: relative;
+        display: block;
+        border-radius: 4px;
+        text-transform: uppercase;
+        color:#fff;
+        font-size: 18px;
+        overflow: hidden;
+        transition: all 500ms ease;
+        border: 2px solid #a88699;
+        margin-bottom: 40px;
+        z-index: 0;
+        animation-name: animacionbtn;
+        animation-duration: 4s;
+        animation-delay: 2s;
+        animation-iteration-count: infinite;
+        
+ }
+ 
+ @keyframes animacionbtn {
+
+        0% {background: white ; }
+        50% {background: #20e2d7 ;}
+        100% {background: rgb(255, 0, 242) ; }
+         
+ }
+ 

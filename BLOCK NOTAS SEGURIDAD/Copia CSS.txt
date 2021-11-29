@@ -1,0 +1,26 @@
+html {
+    
+    margin-top: 10px;
+}
+.logoPequeño  {
+    width: 50px; height: 50px;
+  }
+  .logoMediano  {
+    width: 100px; height: 100px;
+  }
+  .logoGrande  {
+    width: 200px; 
+    height: 200px;
+  }
+  .bg-fucsia {
+    background-color: rgb(255, 0, 242);
+    width: 100%;
+  }
+  .c-blanco {
+    color:white;
+  }
+/*------------HOVER--------------------------------------->*/
+ 
+a:hover {
+  background-color: gold;
+}

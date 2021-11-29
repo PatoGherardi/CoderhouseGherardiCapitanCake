@@ -1,0 +1,18 @@
+Modifique los titulos de los html, antes tenia todos Capitan Cake y ahora 
+
+index -->Capitan Cake 
+contacto -->Capitan Cake | Contactate con nosotros!
+nuestros trabajos -->Capitan Cake | Conoce nuestros trabajos realizados!
+quienes somos -->Capitan Cake | Conocenos un poco mas!
+
+
+
+Agregue 
+
+<meta name="description" content="Realizamos todo tipo de mesas dulces para tu celebracion. "> 
+
+
+<meta name="keywords" content="torta, cumpleaños, celebracion, fiesta, mesa dulce">
+
+Para posicionar la pagina con las palabras clave que creo que caracterizan a mi pagina, y una descripcion
+corta y concreta de lo que hacemos para no aburrir con mucha explicacion de entrada.
